@@ -1,0 +1,32 @@
+body{
+  background-image: url("https://freedesignfile.com/upload/2017/01/Light-blue-tech-background-vector-08.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 5%;
+}
+h1{
+  color: whitesmoke;
+}
+.coures-nav{
+  padding: 20px;
+  
+}
+.navbar{
+  border: 5px rgb(149, 202, 235) solid;
+  height: 100%;
+  padding: 5px;
+ .nav-item{
+  margin-right: 70px;
+  margin-left: 70px;
+
+ }
+  
+}
+img{
+  height: 25vh;
+}
+.card{
+  background-color: rgb(97, 160, 231);
+  border: 5px rgb(13, 24, 31) solid;
+}
+
